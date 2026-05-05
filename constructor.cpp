@@ -8,7 +8,7 @@ public:
 
 mahasiswa::mahasiswa() {
     cout << "Constructor Terpanggil" << endl;
-};5
+};
 
 int main() {
     mahasiswa mhs;
